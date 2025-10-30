@@ -7,7 +7,7 @@ sections:
       text: Optimizamos tu acceso a recursos públicos
       color: text-dark
       type: TitleBlock
-    subtitle: Los de la Subvención
+    subtitle: Pymes Startups Autónomos
     text: >
       Optimizar el acceso a recurso públicos mientras maximizan en innovación,
       reduciendo riesgos, tiempo y costos administrativos.
