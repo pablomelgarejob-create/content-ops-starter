@@ -9,9 +9,8 @@ sections:
       type: TitleBlock
     subtitle: Los de la Subvención
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Optimizar el acceso a recurso públicos mientras maximizan en innovación,
+      reduciendo riesgos, tiempo y costos administrativos.
     actions:
       - label: Get started
         altText: ''
