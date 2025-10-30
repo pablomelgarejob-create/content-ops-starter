@@ -36,7 +36,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Los de la subvencion s.l.u.
+      label: Los de la subvencion s.l.
       color: text-primary
       type: Badge
     elementId: ''
