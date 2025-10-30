@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Optimizamos acceso a recursos públicos
+      text: Optimizamos tu acceso a recursos públicos
       color: text-dark
       type: TitleBlock
     subtitle: Los de la Subvención
